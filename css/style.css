@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 22px;
+    text-align: center;
+    text-transform: uppercase;
+    color: darkblue;
+}
+
+
+input{
+    justify-content: center;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    border: 9px;
+    border-color: chocolate;
+}
+
+button{
+    margin: 5px;
+    color: red;
+    border-radius: 9px;
+    width: 100px;
+    height: 30px;
+
+}
+
+ul{
+
+    justify-content: center;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+#taskList {
+    list-style-type: none;
+}
+li {
+    margin: 5px 0;
+}
+.done {
+    text-decoration: line-through;}
